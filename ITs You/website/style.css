@@ -1,0 +1,83 @@
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  #B1 {
+    background-color: #303030;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    border-color: #353535;
+    padding-top: 5px;
+    border-radius: 20px;
+}
+#T1 {
+    background-color: #303030;
+    text-align: center;
+    color: white;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    color: white;
+    padding-top: 5px;
+    border-color: #353535;   
+    size: 100px;
+    border-radius: 20px;
+}
+#Programes{
+    background-color: #303030;
+    color: white;
+    border-color: #353535;   
+    border-radius: 10px;
+    text-align: center;
+}
+.noti0{  
+    height: 50px;
+    background-color: #202020;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    margin-top: 90px;
+    animation-name: myanme;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+@keyframes myanme {
+    0% {margin-top: 90px;}
+    100% {margin-top: 160px;}
+}
+.noti1{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 1000px;
+  }
+  .cc {
+    background-color: #202020;
+    width: 230px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    
+}
+.Copyr{
+    color: gray;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.navbar_navbar-dark_bg-dark{
+    background-color: #202020;
+}
