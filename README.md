@@ -29,7 +29,9 @@ How to use
 2. connect a domain
 3. Change The api's url in the vb.net project to Your Domain
 4. upload the sql db file
+5. Change The db.php info To your hosting db info
 ```
 <img src="https://a.top4top.io/p_1882aisns1.png">
 <img src="https://d.top4top.io/p_1882719p41.png">
 <img src="https://j.top4top.io/p_1882nf5im1.png">
+<img src="https://d.top4top.io/p_18829as651.png">
